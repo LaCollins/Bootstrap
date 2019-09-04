@@ -1,3 +1,12 @@
 body {
     background-color: teal;
 }
+
+.card-img-top {
+    max-height: 200px;
+}
+
+.card {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
